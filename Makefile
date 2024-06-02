@@ -323,6 +323,9 @@ devpi-stop:
 activate:
 	source venv/bin/activate
 
+defaultPass:
+	TrKaevE2Ru
+
 -include docker/Makefile
 -include gitlab-ci/Makefile
 -include python/Makefile
