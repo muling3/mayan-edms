@@ -1,0 +1,6 @@
+Sphinx==5.3.0
+sphinx-sitemap==2.2.0
+sphinx_rtd_theme==2.0.0
+sphinxcontrib-blockdiag==2.0.0
+sphinxcontrib-spelling==7.1.0
+wheel==0.42.0
